@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**abinayad90/abinayad90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abinaya Dhatchinamurthy, a testing specialist ensures software quality through solid testing practices, automation, and attention to detail.
 
-Here are some ideas to get you started:
+## 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧪 Senior Software Tester with strong QA mindset
+* 🔎 Skilled in root cause analysis and defect investigation
+* 🤝 Team player who collaborates effectively with developers, product owners, and stakeholders
+* ⚡ Focused on delivering reliable, high-quality user experiences
+* 🌱 Continuously learning new tools and testing approaches
+
+## 🛠️ Skills
+
+* Manual Testing,Regression testing,Exploratory Testing
+* Test Automation (Selenium,Playwright)
+* API Testing (Postman)
+* CI/CD (Jenkins)
+* Bug Tracking (Jira)
+
+## 🤖 Tools & AI Familiarity
+
+* LLM tools: Familiarity in Claude, ChatGPT, GitHub Copilot
+
+## 📈 Focus Areas
+
+* Test automation frameworks
+* Shift-left testing & QA processes
+* UI, API & integration testing
+* Quality engineering best practices
+
+## 📫 Contact
+
+* GitHub: abinayad90
+* LinkedIn: www.linkedin.com/in/abinaya-dhatchinamurthy-685a64131
+
+---
+
+
